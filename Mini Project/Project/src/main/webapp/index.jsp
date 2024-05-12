@@ -21,6 +21,7 @@
 			</div>
 		</div>
 	</header>
+	<!--Navbar-->
 	<nav>
 		<section class="menu-section">
 			<div class="container">
